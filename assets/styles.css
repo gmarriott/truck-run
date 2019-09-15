@@ -1,0 +1,18 @@
+.background{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(17,14,54,1) 86%);
+    height: 1000px;
+}
+
+#game-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    color:#d1d1ca;
+}
+
+#controls{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 2px solid #110e36; 
+    margin-top:10px;
+}
